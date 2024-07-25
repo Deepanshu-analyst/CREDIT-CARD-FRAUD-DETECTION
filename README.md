@@ -15,4 +15,4 @@ This project focuses on detecting fraudulent credit card transactions using a da
 **Results:**
 Achieved high performance metrics, especially in precision and recall, crucial for effective fraud detection.
 
-**GitHub Repository** =(https://github.com/Deepanshu-analyst/CREDIT-CARD-FRAUD-DETECTION)
+**GitHub Repository** =[here](https://github.com/Deepanshu-analyst/CREDIT-CARD-FRAUD-DETECTION)
