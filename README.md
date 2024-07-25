@@ -1,3 +1,5 @@
+**Deepanshu kushwaha**
+**Capstone project**
 **Credit Card Fraud Detection**
 
 This project focuses on detecting fraudulent credit card transactions using a dataset of European cardholders' transactions from September 2013. Given the significant class imbalance, various resampling techniques and machine learning models were employed to enhance prediction accuracy.
@@ -12,3 +14,5 @@ This project focuses on detecting fraudulent credit card transactions using a da
 
 **Results:**
 Achieved high performance metrics, especially in precision and recall, crucial for effective fraud detection.
+
+**GitHub Repository** = https://github.com/Deepanshu-analyst/CREDIT-CARD-FRAUD-DETECTION
